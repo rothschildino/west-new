@@ -10,7 +10,7 @@ function Banners() {
         <div className={styles.image}>
           <img src="https://i.imgur.com/gxVyt6N.png" alt="" />
         </div>
-        
+        <p>112</p>
       </div>
 
       { /* <div className={styles.btn}>
